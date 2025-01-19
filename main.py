@@ -51,3 +51,5 @@ if price_of_interested < 150:
                         msg=f"Subject:Amazon Price Alert!\n\n{message}\n{url}".encode("utf-8"))
     except Exception as e:
         print(e)
+        print(e)
+        
